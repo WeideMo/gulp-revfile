@@ -1,0 +1,14 @@
+.title{
+    font-size: 16px;
+    font-weight: bold;
+    color:#000;
+}
+.subTitle{
+     font-size: 14px;
+    font-weight: normal;
+    color:#ff0000;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
